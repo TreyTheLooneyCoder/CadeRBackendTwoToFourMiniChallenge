@@ -1,0 +1,6 @@
+@CadeRBackendTwoToFour_HostAddress = http://localhost:5257
+
+GET {{CadeRBackendTwoToFour_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
