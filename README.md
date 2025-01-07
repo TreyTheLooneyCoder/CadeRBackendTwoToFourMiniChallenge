@@ -27,6 +27,6 @@ Things to turn in:
 
 WILL NOT BE HOSTED ON VERCEL
 
-#### Peer Review:
+#### Peer Review: Kassandra Spacek
 
-Comments: Kassandra Spacek: Everything works well. The only thing I would say would be in the Greater Than and Less Than part, to let the user see the numbers they entered printed out in the two sentences. Great Job!
+Comments: Everything works well. The only thing I would say would be in the Greater Than and Less Than part, to let the user see the numbers they entered printed out in the two sentences. Great Job!
